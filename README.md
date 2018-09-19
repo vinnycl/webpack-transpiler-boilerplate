@@ -1,0 +1,3 @@
+- É necessário o [node.js](https://nodejs.org/en/download/) instalado em sua máquina.
+- Instale as dependências do projeto com `npm install`.
+- Para rodar, use o `npm run build` na pasta do projeto, e será criado uma pasta `dist`.
